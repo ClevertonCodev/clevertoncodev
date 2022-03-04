@@ -1,5 +1,5 @@
 ### <div> <h3> Olá! Eu sou Cleverton Santos, estudante de tecnologia !! </h3>
-<h3> Natal - RN 🏖️ - Brasil/Brazil </h3>
+<h3> Natal - RN 🏖️ - Brasil/Brazil </h3> </div>
  
  <div align="center">
         <a href="https://github.com/clevertoncodev">
