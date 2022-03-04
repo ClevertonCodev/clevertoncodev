@@ -1,6 +1,6 @@
 ### <div> <h1> Olá! Eu sou Cleverton Santos, estudante de tecnologia !! </h1>
-<h2> Natal - RN 🏖️ </h2>
- <h2> Brasil/Brazil 🇧🇷 </h2>
+<h3> Natal - RN 🏖️ - Brasil/Brazil </h3>
+ 
  <div align="center">
         <a href="https://github.com/clevertoncodev">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clevertoncodev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
