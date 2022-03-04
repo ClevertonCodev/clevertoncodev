@@ -12,10 +12,10 @@
         <img align="center" alt="clev-C" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
 </div>      
   <br>
-  <br>
   <div>
     <h2 "auto"></h2>
  </div>
+   <br>
       <div align="center">
           <a href="https://api.whatsapp.com/send?phone=5584994105215"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
           <a href="https://www.instagram.com/clevertonfisiosantos/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
