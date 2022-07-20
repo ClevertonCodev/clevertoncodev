@@ -1,6 +1,6 @@
 ### <div> <h3>Olá! Eu sou Cleverton Santos!</h3>
 <h3>Futuro Análista e Desenvolvedor de Sistemas.</h3>
-<h3>Futuro  Técnico em Tecnologia da Informação (TI) - IMD - UFRN</h3>    
+<h3>Futuro  Desenvolvedor Web - UFRN</h3>    
 <h3> Natal - RN 🏖️ - Brasil/Brazil </h3> 
 </div>
 <h2 "auto"></h2>
@@ -15,7 +15,7 @@
         <img align="center" alt="Clev-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img align="center" alt="Clev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Clev-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-        <img align="center" alt="clev-C" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+        <img align="center" alt="clev-PHP" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>    
   <div>
     <h2 "auto"></h2>
