@@ -15,7 +15,7 @@
         <img align="center" alt="Clev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Clev-TS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
         <img align="center" alt="clev-laravel" height="200" width="100"  src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" />
-        <img align="center" alt="Clev-react" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+        <img align="center" alt="Clev-react" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>    
   <div>
     <h2 "auto"></h2>
