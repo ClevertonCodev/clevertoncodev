@@ -1,5 +1,5 @@
 ### <div> <h3>Olá! Eu sou Cleverton Santos!</h3>
-<h3>Desenvolvedor Web - UFRN</h3>    
+<h3>Desenvolvedor Full Stack - UFRN</h3>    
 <h3> Natal - RN 🏖️ - Brasil/Brazil </h3> 
 </div>
 <h2 "auto"></h2>
