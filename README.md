@@ -17,7 +17,7 @@
        <img align="center" alt="Clev-node" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
         <img align="center" alt="Clev-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
         <img align="center" alt="clev-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-        <img align="center" alt="clev-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+        <img align="center" alt="clev-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
           
         
 </div>   
